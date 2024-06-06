@@ -1,0 +1,17 @@
+C:\Users\milopez\source\repos\test2\test2\obj\Debug\net8.0-windows\test2.Form1.resources
+C:\Users\milopez\source\repos\test2\test2\obj\Debug\net8.0-windows\test2.csproj.GenerateResource.cache
+C:\Users\milopez\source\repos\test2\test2\obj\Debug\net8.0-windows\test2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\milopez\source\repos\test2\test2\obj\Debug\net8.0-windows\test2.AssemblyInfoInputs.cache
+C:\Users\milopez\source\repos\test2\test2\obj\Debug\net8.0-windows\test2.AssemblyInfo.cs
+C:\Users\milopez\source\repos\test2\test2\obj\Debug\net8.0-windows\test2.csproj.CoreCompileInputs.cache
+C:\Users\milopez\source\repos\test2\test2\bin\Debug\net8.0-windows\test2.exe
+C:\Users\milopez\source\repos\test2\test2\bin\Debug\net8.0-windows\test2.deps.json
+C:\Users\milopez\source\repos\test2\test2\bin\Debug\net8.0-windows\test2.runtimeconfig.json
+C:\Users\milopez\source\repos\test2\test2\bin\Debug\net8.0-windows\test2.dll
+C:\Users\milopez\source\repos\test2\test2\bin\Debug\net8.0-windows\test2.pdb
+C:\Users\milopez\source\repos\test2\test2\obj\Debug\net8.0-windows\test2.dll
+C:\Users\milopez\source\repos\test2\test2\obj\Debug\net8.0-windows\refint\test2.dll
+C:\Users\milopez\source\repos\test2\test2\obj\Debug\net8.0-windows\test2.pdb
+C:\Users\milopez\source\repos\test2\test2\obj\Debug\net8.0-windows\test2.genruntimeconfig.cache
+C:\Users\milopez\source\repos\test2\test2\obj\Debug\net8.0-windows\ref\test2.dll
+C:\Users\milopez\source\repos\test2\test2\obj\Debug\net8.0-windows\test2.Form2.resources
